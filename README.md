@@ -77,6 +77,16 @@
 
 <br clear="both">
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mihithammi/mihithammi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mihithammi/mihithammi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mihithammi/mihithammi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<br clear="both">
+
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/mihithammi/mihithammi/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mihithammi&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=2&order=3" height="150" alt="streak graph"  />
